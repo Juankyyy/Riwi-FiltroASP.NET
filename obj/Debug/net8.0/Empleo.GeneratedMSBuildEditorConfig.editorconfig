@@ -9,67 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Empleo
 build_property.RootNamespace = Empleo
-build_property.ProjectDir = /home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/
+build_property.ProjectDir = C:\Users\Juanky\Documents\Code\CSharp\ASP\Riwi-FiltroASP.NET\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo
+build_property.MSBuildProjectDirectory = C:\Users\Juanky\Documents\Code\CSharp\ASP\Riwi-FiltroASP.NET
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Views/Employees/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0NyZWF0ZS5jc2h0bWw=
+[C:/Users/Juanky/Documents/Code/CSharp/ASP/Riwi-FiltroASP.NET/Views/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Views/Employees/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0RldGFpbHMuY3NodG1s
+[C:/Users/Juanky/Documents/Code/CSharp/ASP/Riwi-FiltroASP.NET/Views/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Views/Employees/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0VkaXQuY3NodG1s
+[C:/Users/Juanky/Documents/Code/CSharp/ASP/Riwi-FiltroASP.NET/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Views/Employees/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0luZGV4LmNzaHRtbA==
+[C:/Users/Juanky/Documents/Code/CSharp/ASP/Riwi-FiltroASP.NET/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Views/Jobs/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSm9icy9DcmVhdGUuY3NodG1s
+[C:/Users/Juanky/Documents/Code/CSharp/ASP/Riwi-FiltroASP.NET/Views/Jobs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Views/Jobs/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSm9icy9EZXRhaWxzLmNzaHRtbA==
+[C:/Users/Juanky/Documents/Code/CSharp/ASP/Riwi-FiltroASP.NET/Views/Jobs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Views/Jobs/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSm9icy9FZGl0LmNzaHRtbA==
+[C:/Users/Juanky/Documents/Code/CSharp/ASP/Riwi-FiltroASP.NET/Views/Jobs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Views/Jobs/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSm9icy9JbmRleC5jc2h0bWw=
+[C:/Users/Juanky/Documents/Code/CSharp/ASP/Riwi-FiltroASP.NET/Views/Jobs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ic1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Views/Landing/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGFuZGluZy9JbmRleC5jc2h0bWw=
+[C:/Users/Juanky/Documents/Code/CSharp/ASP/Riwi-FiltroASP.NET/Views/Landing/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGluZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[C:/Users/Juanky/Documents/Code/CSharp/ASP/Riwi-FiltroASP.NET/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/Juanky/Documents/Code/CSharp/ASP/Riwi-FiltroASP.NET/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/Juanky/Documents/Code/CSharp/ASP/Riwi-FiltroASP.NET/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/Juanky/Documents/Code/CSharp/ASP/Riwi-FiltroASP.NET/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-tei0t90mb5
+[C:/Users/Juanky/Documents/Code/CSharp/ASP/Riwi-FiltroASP.NET/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cbca6nr95l

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cybOehJlOf7/tZGYUWYhV8bpwwSI3MJuABRo8jZ94Pc=",
+  "Hash": "468X2UE8UJcPtmqcCrewrz6tpMn72nURcPxsAz8ZXao=",
   "Source": "Empleo",
   "BasePath": "_content/Empleo",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "Empleo/wwwroot",
+      "Name": "Empleo\\wwwroot",
       "Source": "Empleo",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/obj/Debug/net8.0/scopedcss/bundle/Empleo.styles.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Empleo.styles.css",
       "SourceId": "Empleo",
       "SourceType": "Computed",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "Empleo.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/obj/Debug/net8.0/scopedcss/bundle/Empleo.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Empleo.styles.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/obj/Debug/net8.0/scopedcss/projectbundle/Empleo.bundle.scp.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Empleo.bundle.scp.css",
       "SourceId": "Empleo",
       "SourceType": "Computed",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "Empleo.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/obj/Debug/net8.0/scopedcss/projectbundle/Empleo.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Empleo.bundle.scp.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/css/site.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\css\\site.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/site.css"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/favicon.ico",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\favicon.ico",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.ico"
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/favicon/create.svg",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\favicon\\create.svg",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "favicon/create.svg",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon/create.svg"
+      "OriginalItemSpec": "wwwroot\\favicon\\create.svg"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/favicon/edit.svg",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\favicon\\edit.svg",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "favicon/edit.svg",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon/edit.svg"
+      "OriginalItemSpec": "wwwroot\\favicon\\edit.svg"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/favicon/employee.svg",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\favicon\\employee.svg",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "favicon/employee.svg",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon/employee.svg"
+      "OriginalItemSpec": "wwwroot\\favicon\\employee.svg"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/favicon/employeeDetails.svg",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\favicon\\employeeDetails.svg",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "favicon/employeeDetails.svg",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon/employeeDetails.svg"
+      "OriginalItemSpec": "wwwroot\\favicon\\employeeDetails.svg"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/favicon/home.svg",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\favicon\\home.svg",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "favicon/home.svg",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon/home.svg"
+      "OriginalItemSpec": "wwwroot\\favicon\\home.svg"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/favicon/job.svg",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\favicon\\job.svg",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "favicon/job.svg",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon/job.svg"
+      "OriginalItemSpec": "wwwroot\\favicon\\job.svg"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/favicon/jobDetails.svg",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\favicon\\jobDetails.svg",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "favicon/jobDetails.svg",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon/jobDetails.svg"
+      "OriginalItemSpec": "wwwroot\\favicon\\jobDetails.svg"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/favicon/landing.svg",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\favicon\\landing.svg",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "favicon/landing.svg",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon/landing.svg"
+      "OriginalItemSpec": "wwwroot\\favicon\\landing.svg"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/js/site.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\js\\site.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/js/site.js"
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -736,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -774,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -831,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -850,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -869,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -888,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -907,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -926,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -945,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -964,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1002,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1021,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1040,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1059,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1078,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1097,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1116,13 +1116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1135,13 +1135,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1154,13 +1154,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1211,13 +1211,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1230,13 +1230,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1249,13 +1249,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1268,13 +1268,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1287,13 +1287,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1306,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1325,13 +1325,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1344,13 +1344,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/uploads/a.jpg",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\uploads\\a.jpg",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "uploads/a.jpg",
       "AssetKind": "All",
@@ -1363,13 +1363,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/a.jpg"
+      "OriginalItemSpec": "wwwroot\\uploads\\a.jpg"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/uploads/cocacola.jpeg",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\uploads\\cocacola.jpeg",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "uploads/cocacola.jpeg",
       "AssetKind": "All",
@@ -1382,13 +1382,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/cocacola.jpeg"
+      "OriginalItemSpec": "wwwroot\\uploads\\cocacola.jpeg"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/uploads/JuankyCv.pdf",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\uploads\\JuankyCv.pdf",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "uploads/JuankyCv.pdf",
       "AssetKind": "All",
@@ -1401,13 +1401,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/JuankyCv.pdf"
+      "OriginalItemSpec": "wwwroot\\uploads\\JuankyCv.pdf"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/uploads/JuankyPicture.jpeg",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\uploads\\JuankyPicture.jpeg",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "uploads/JuankyPicture.jpeg",
       "AssetKind": "All",
@@ -1420,13 +1420,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/JuankyPicture.jpeg"
+      "OriginalItemSpec": "wwwroot\\uploads\\JuankyPicture.jpeg"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/uploads/MateoCv.pdf",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\uploads\\MateoCv.pdf",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "uploads/MateoCv.pdf",
       "AssetKind": "All",
@@ -1439,13 +1439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/MateoCv.pdf"
+      "OriginalItemSpec": "wwwroot\\uploads\\MateoCv.pdf"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/uploads/MateoPicture.png",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\uploads\\MateoPicture.png",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "uploads/MateoPicture.png",
       "AssetKind": "All",
@@ -1458,13 +1458,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/MateoPicture.png"
+      "OriginalItemSpec": "wwwroot\\uploads\\MateoPicture.png"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/uploads/pascualbravo.jpg",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\uploads\\pascualbravo.jpg",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "uploads/pascualbravo.jpg",
       "AssetKind": "All",
@@ -1477,13 +1477,32 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/pascualbravo.jpg"
+      "OriginalItemSpec": "wwwroot\\uploads\\pascualbravo.jpg"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/uploads/sena.jpeg",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\uploads\\postobon.jpg",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
+      "BasePath": "_content/Empleo",
+      "RelativePath": "uploads/postobon.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\postobon.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\uploads\\sena.jpeg",
+      "SourceId": "Empleo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "uploads/sena.jpeg",
       "AssetKind": "All",
@@ -1496,13 +1515,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/sena.jpeg"
+      "OriginalItemSpec": "wwwroot\\uploads\\sena.jpeg"
     },
     {
-      "Identity": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/uploads/WilmarPicture.jpeg",
+      "Identity": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\uploads\\WilmarPicture.jpeg",
       "SourceId": "Empleo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/wwwroot/",
+      "ContentRoot": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\wwwroot\\",
       "BasePath": "_content/Empleo",
       "RelativePath": "uploads/WilmarPicture.jpeg",
       "AssetKind": "All",
@@ -1515,7 +1534,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/uploads/WilmarPicture.jpeg"
+      "OriginalItemSpec": "wwwroot\\uploads\\WilmarPicture.jpeg"
     }
   ]
 }

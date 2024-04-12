@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Empleo.csproj": {}
+    "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\Empleo.csproj": {}
   },
   "projects": {
-    "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Empleo.csproj": {
+    "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\Empleo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Empleo.csproj",
+        "projectUniqueName": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\Empleo.csproj",
         "projectName": "Empleo",
-        "projectPath": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/Empleo.csproj",
-        "packagesPath": "/home/riwip5-026/.nuget/packages/",
-        "outputPath": "/home/riwip5-026/Downloads/PruebaDeDesempeñoASPNET_JuanCamiloHerreraChamat/Empleo/obj/",
+        "projectPath": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\Empleo.csproj",
+        "packagesPath": "C:\\Users\\Juanky\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juanky\\Documents\\Code\\CSharp\\ASP\\Riwi-FiltroASP.NET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/riwip5-026/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Juanky\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -66,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
