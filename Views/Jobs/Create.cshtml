@@ -1,0 +1,84 @@
+@model Job;
+@{
+    ViewBag.Title = "Crear oferta de empleo";
+    ViewBag.Favicon ="create.svg";
+}
+
+<div class="title mt-3 mb-3">
+    <h2>Crear nueva oferta</h2>
+</div>
+
+<div class="main">
+    <aside class="aside-buttons">
+        <a class="btn btn-light" asp-action="Create">Crear oferta de empleo</a>
+        <a class="btn btn-light" asp-action="Index">Listado de ofertas</a>
+    </aside>
+
+    <form class="data" method="post" asp-action="Create" enctype="multipart/form-data">
+        <div class="title">
+            <h3>Información de la empresa</h3>
+        </div>
+
+        <div class="inputGroup mb-3 pb-5 border-bottom border-dark border-2">
+            <div class="inputItem">
+                <label class="inputName">Nombre de la empresa</label>
+                <input class="form-control" type="text" asp-for="NameCompany">
+            </div>
+
+            <div class="inputItem">
+                <label class="inputName">Logo de la empresa</label>
+                <input class="form-control" type="file" name="file" asp-for="LogoCompany">
+            </div>
+        </div>
+
+        <div class="title">
+            <h3>Información de la oferta</h3>
+        </div>
+
+        <div class="inputGroup mb-4">
+            <div class="inputItem">
+                <label class="inputName">Título de la oferta</label>
+                <input class="form-control" type="text" asp-for="OfferTitle">
+            </div>
+
+            <div class="inputItem">
+                <label class="inputName">País</label>
+                <input class="form-control" type="text" asp-for="Country">
+            </div>
+        </div>
+
+        <div class="inputGroup mb-4">
+            <div class="inputItem">
+                <label class="inputName">Salario</label>
+                <input class="form-control" type="number" asp-for="Salary">
+            </div>
+
+            <div class="inputItem">
+                <label class="inputName">Vacantes / Posiciones</label>
+                <input class="form-control" type="number" asp-for="Positions">
+            </div>
+        </div>
+
+        <div class="inputGroup mb-5">
+            <div class="inputItem">
+                <label class="inputName">Idiomas</label>
+                <input class="form-control" type="text" asp-for="Languages">
+            </div>
+
+            <div class="inputItem">
+                <label class="inputName">Estado de la oferta</label>
+                <select class="form-select form-control" asp-for="Status">
+                    <option value="Activa" selected>Activa</option>
+                    <option value="Inactiva">Inactiva</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="inputDescription">
+            <label class="inputName">Descripción</label>
+            <textarea class="form-control" type="text" asp-for="Description"></textarea>
+        </div>
+
+        <button class="btn btn-primary w-100 mt-3">Crear nueva oferta de empleo</button>
+    </form>
+</div>

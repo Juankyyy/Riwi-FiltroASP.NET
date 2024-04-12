@@ -1,0 +1,22 @@
+@{
+    ViewBag.Title = "Bolsa de Empleo";
+    ViewBag.Favicon ="landing.svg";
+}
+
+<div class="content bg">
+    <div class="title">
+        <h1>Bolsa de Empleo</h1>
+    </div>
+
+    <div class="buttons">
+        <div class="buttonsGroup">
+            <a class="btn btn-primary" asp-controller="Jobs" asp-action="Index">Ver ofertas de empleo</a>
+            <a class="btn btn-primary" asp-controller="Jobs" asp-action="Create">Crear oferta de empleo</a>
+        </div>
+
+        <div class="buttonsGroup">
+            <a class="btn btn-success" asp-controller="Employees" asp-action="Index">Listar empleados</a>
+            <a class="btn btn-success" asp-controller="Employees" asp-action="Create">Registrar empleado</a>
+        </div>
+    </div>
+</div>

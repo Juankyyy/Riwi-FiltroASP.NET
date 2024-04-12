@@ -1,0 +1,58 @@
+@{
+    ViewBag.Title = "Detalles del empleado";
+    ViewBag.Favicon ="employeeDetails.svg";
+}
+
+<div class="title mt-3 mb-3">
+    <h2>Detalles empleado / @Model.Names @Model.LastNames</h2>
+</div>
+
+<div class="main">
+    <aside class="aside-buttons">
+        <a class="btn btn-light" asp-action="Create">Registrar nuevo empleado</a>
+        <a class="btn btn-success" asp-action="Index">Listado de empleados</a>
+    </aside>
+
+    <div class="data dataEmployees">
+        <div class="picture mt-3">
+            <img src="~/uploads/@Model.ProfilePicture" width="150px" alt="@Model.Names Profile">
+        </div>
+
+        <div class="title">
+            <h2>@Model.Names @Model.LastNames</h2>
+        </div>
+
+        <div class="title subtitle">
+            <p>@Model.Email</p>
+        </div>
+
+        <div class="divider"></div>
+
+        <div class="infoEmployee mt-3">
+            <div class="infoGroup">
+                <p><strong>Teléfono: </strong>@Model.Phone</p>
+                <p><strong>Género: </strong>@Model.Gender</p>
+                <p><strong>Título: </strong>@Model.AcademicTitle</p>
+            </div>
+
+            <div class="infoGroup">
+                <p><strong>Dirección: </strong>@Model.Address</p>
+                <p><strong>Estado Civil: </strong>@Model.CivilStatus</p>
+                <p><strong>Idiomas: </strong>@Model.Languages</p>
+            </div>
+
+            <div class="infoGroup">
+                <p><strong>Fecha de nacimiento: </strong>@Model.BirthDate.ToString("yyyy-MM-dd")</p>
+                <p><strong>Salario deseado: </strong>@Model.Salary</p>
+                <p><strong>Área: </strong>@Model.Area</p>
+            </div>
+        </div>
+
+        <div class="about mt-3">
+            <strong>Acerca de</strong>
+            <p>@Model.About</p>
+        </div>
+
+        <a class="btn btn-primary mt-3" href="~/uploads/@Model.Cv" download="~/uploads/@Model.Cv">Descargar hoja de vida</a>
+    </div>
+</div>

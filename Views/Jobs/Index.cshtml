@@ -1,0 +1,47 @@
+@{
+    ViewBag.Title = "Ofertas de empleo";
+    ViewBag.Favicon ="job.svg";
+}
+
+<div class="title mt-3 mb-3">
+    <h2>Listado de ofertas de empleo</h2>
+</div>
+
+<div class="main">
+    <aside class="aside-buttons">
+        <a class="btn btn-light" asp-action="Create">Crear oferta de empleo</a>
+        <a class="btn btn-primary" asp-action="Index">Listado de ofertas</a>
+    </aside>
+
+    <div class="data">
+        <form class="inputSearch mb-3" method="get" asp-action="Search">
+            <input class="form-control" type="text" name="search" placeholder="Buscar...">
+            <button class="btn btn-primary">Buscar</button>
+        </form>
+        <table class="table table-striped align-middle">
+            <thead>
+                <th>Nombre Empresa</th>
+                <th>Oferta</th>
+                <th>Descripción</th>
+                <th>Salario</th>
+                <th>Acciones</th>
+            </thead>
+            <tbody>
+                @foreach (var job in Model)
+                {
+                    <tr>
+                        <td>@job.NameCompany</td>
+                        <td>@job.OfferTitle</td>
+                        <td class="tdDescription">@job.Description</td>
+                        <td>@job.Salary</td>
+                        <td class="tdActions">
+                            <a class="btn btn-sm btn-info" asp-route-id="@job.Id" asp-action="Details">Detalles</a>
+                            <a class="btn btn-sm btn-warning" asp-route-id="@job.Id" asp-action="Edit">Editar</a>
+                            <a class="btn btn-sm btn-danger" asp-route-id="@job.Id" asp-action="Delete">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

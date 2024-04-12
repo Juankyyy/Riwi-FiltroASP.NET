@@ -1,0 +1,245 @@
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.navBrand {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 0px 5px;
+  margin-right: 5px;
+
+  .navbar-brand {
+    margin-right: 0px;
+  }
+  transition: background-color 0.3s;
+}
+
+.navBrand:hover {
+  background-color: #121415;
+  
+  a {
+    color: #fff;
+  }
+}
+
+.nav-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 5px;
+  border-radius: 10px;
+  transition: background-color 0.3s;
+}
+
+.nav-item:hover {
+  background-color: #121415;
+  
+  a {
+    color: #fff;
+  }
+}
+
+.nav-link {
+  padding: 0px;
+}
+
+td, th {
+  border: 3px solid #000;
+  border-radius: 5px;
+  border-bottom-width: 3px !important;
+}
+
+body {
+  background-color: #dddd;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 56px);
+}
+
+.tdDescription {
+  max-width: 333px;
+  text-wrap: balance;
+}
+
+.form-control {
+  border: 3px solid #000;
+  border-radius: 5px;
+}
+
+.btn {
+  border: 3px solid #000;
+  border-radius: 5px;
+}
+
+/* Landing */
+.bg {
+  background-image: url(https://i.postimg.cc/44cZ8gcg/background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+  .title {
+    color: #fff;
+    position: absolute;
+    top: 150px;
+  }
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+
+  .btn {
+    width: 300px;
+  }
+}
+
+.buttonsGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.dataEmployees {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+
+.divider {
+  background-color: #000;
+  height: 2px;
+  width: 80%;
+}
+
+.infoEmployee {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.infoGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.inputsEmployee {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.inputsGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.filesEmployee {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Index */
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.main {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.aside-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 80vh;
+  background-color: #fff;
+  border: 3px solid #000;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.data {
+  background-color: #fff;
+  border: 3px solid #000;
+  border-radius: 5px;
+  height: 80vh;
+  padding: 15px 40px;
+  width: 75vw;
+}
+
+.inputSearch {
+  display: flex;
+  gap: 10px;
+
+  .form-control {
+    width: 300px;
+  }
+}
+
+/* Details */
+.picture img {
+  border: 3px solid #000;
+  border-radius: 5px;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  .btn {
+    width: 75px;
+  }
+}
+
+.description p {
+  width: 70%;
+}
+
+/* Edit */
+.inputGroup {
+  display: flex;
+  justify-content: space-between;
+}
+
+.inputItem {
+  display: flex;
+  flex-direction: column;
+
+  
+  .form-control {
+    width:400px;
+  }
+}
+
+.inputName {
+  margin-left: 20px;
+  margin-bottom: 2px;
+}
+
+.inputDescription {
+  .form-control {
+    height: 100px;
+    max-height: 100px;
+  }
+}

@@ -1,0 +1,47 @@
+@{
+    ViewBag.Title = "Empleados";
+    ViewBag.Favicon ="employee.svg";
+}
+
+<div class="title mt-3 mb-3">
+    <h2>Listado de empleados</h2>
+</div>
+
+<div class="main">
+    <aside class="aside-buttons">
+        <a class="btn btn-light" asp-action="Create">Registrar nuevo empleado</a>
+        <a class="btn btn-success" asp-action="Index">Listado de empleados</a>
+    </aside>
+
+    <div class="data">
+        <form class="inputSearch mb-3" method="get" asp-action="Search">
+            <input class="form-control" type="text" name="search" placeholder="Buscar...">
+            <button class="btn btn-primary">Buscar</button>
+        </form>
+        <table class="table table-striped align-middle">
+            <thead>
+                <th>Nombres</th>
+                <th>Apellidos</th>
+                <th>Correo</th>
+                <th>Acerca de</th>
+                <th>Acciones</th>
+            </thead>
+            <tbody>
+                @foreach (var employee in Model)
+                {
+                    <tr>
+                        <td>@employee.Names</td>
+                        <td>@employee.LastNames</td>
+                        <td>@employee.Email</td>
+                        <td class="tdDescription">@employee.About</td>
+                        <td>
+                            <a class="btn btn-sm btn-info" asp-route-id="@employee.Id" asp-action="Details">Detalles</a>
+                            <a class="btn btn-sm btn-warning" asp-route-id="@employee.Id" asp-action="Edit">Editar</a>
+                            <a class="btn btn-sm btn-danger" asp-route-id="@employee.Id" asp-action="Delete">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,39 @@
+@{
+    ViewBag.Title = "Detalles de la oferta de empleo";
+    ViewBag.Favicon ="jobDetails.svg";
+}
+
+<div class="title mt-3 mb-3">
+    <h2>Detalles de oferta de empleo / @Model.OfferTitle</h2>
+</div>
+
+<div class="main">
+    <aside class="aside-buttons">
+        <a class="btn btn-primary" asp-action="Create">Crear oferta de empleo</a>
+        <a class="btn btn-light" asp-action="Index">Listado de ofertas</a>
+    </aside>
+
+    <div class="data">
+        <div class="picture mb-3">
+            <img src="~/uploads/@Model.LogoCompany" width="150px" alt="@Model.NameCompany">
+        </div>
+
+        <div class="details">
+            <div class="info">
+                <h3>@Model.OfferTitle</h3>
+                <p>@Model.NameCompany</p>
+                <p><strong>Salario: </strong>@Model.Salary</p>
+                <p><strong>Posiciones: </strong>@Model.Positions</p>
+                <p><strong>Pais: </strong>@Model.Country</p>
+                <p><strong>Idiomas: </strong>@Model.Languages</p>
+            </div>
+
+            <div class="description">
+                <strong>Descripción:</strong>
+                <p>@Model.Description</p>
+            </div>
+
+            <a class="btn btn-primary" asp-controller="Jobs" asp-action="Index">Volver</a>
+        </div>
+    </div>
+</div>

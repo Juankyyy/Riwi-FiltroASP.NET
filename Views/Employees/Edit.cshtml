@@ -1,0 +1,109 @@
+@model Employee;
+@{
+    ViewBag.Title = "Editar empleado";
+    ViewBag.Favicon ="edit.svg";
+}
+
+<div class="title mt-3 mb-3">
+    <h2>Editar oferta empleado / @Model.Names @Model.LastNames</h2>
+</div>
+
+<div class="main">
+    <aside class="aside-buttons">
+        <a class="btn btn-light" asp-action="Create">Registrar nuevo empleado</a>
+        <a class="btn btn-success" asp-action="Index">Listado de empleados</a>
+    </aside>
+
+    <form class="data" method="post">
+        <div class="title">
+            <h3>Información del empleado</h3>
+        </div>
+
+        <div class="inputsEmployee">
+            <div class="inputsGroup">
+                <div class="inputItemEmployee">
+                    <label class="inputName">Nombres</label>
+                    <input class="form-control" type="text" asp-for="Names">
+                </div>
+
+                <div class="inputItemEmployee">
+                    <label class="inputName">Fecha de nacimiento</label>
+                    <input class="form-control" type="date" asp-for="BirthDate">
+                </div>
+
+                <div class="inputItemEmployee">
+                    <label class="inputName">Direccion</label>
+                    <input class="form-control" type="text" asp-for="Address">
+                </div>
+
+                <div class="inputItemEmployee">
+                    <label class="inputName">Título Académico</label>
+                    <input class="form-control" type="text" asp-for="AcademicTitle">
+                </div>
+            </div>
+
+            <div class="inputsGroup">
+                <div class="inputItemEmployee">
+                    <label class="inputName">Apellidos</label>
+                    <input class="form-control" type="text" asp-for="LastNames">
+                </div>
+
+                <div class="inputItemEmployee">
+                    <label class="inputName">Género</label>
+                    <input class="form-control" type="text" asp-for="Gender">
+                </div>
+
+                <div class="inputItemEmployee">
+                    <label class="inputName">Estado Civil</label>
+                    <input class="form-control" type="text" asp-for="CivilStatus">
+                </div>
+
+                <div class="inputItemEmployee">
+                    <label class="inputName">Área</label>
+                    <input class="form-control" type="text" asp-for="Area">
+                </div>
+            </div>
+            
+            <div class="inputsGroup">
+                <div class="inputItemEmployee">
+                    <label class="inputName">Correo</label>
+                    <input class="form-control" type="text" asp-for="Email">
+                </div>
+
+                <div class="inputItemEmployee">
+                    <label class="inputName">Teléfono</label>
+                    <input class="form-control" type="text" asp-for="Phone">
+                </div>
+
+                <div class="inputItemEmployee">
+                    <label class="inputName">Salario deseado</label>
+                    <input class="form-control" type="text" asp-for="Salary">
+                </div>
+
+                <div class="inputItemEmployeeEmployee">
+                    <label class="inputName">Idiomas</label>
+                    <input class="form-control" type="text" asp-for="Languages">
+                </div>
+            </div>
+        </div>
+
+        <div class="inputDescription mt-3">
+            <label class="inputName">Acerca de</label>
+            <textarea class="form-control" type="text" asp-for="About"></textarea>
+        </div>
+
+        <div class="filesEmployee mt-3">
+            <div class="file">
+                <label class="inputName">Foto de perfil</label>
+                <input class="form-control" type="file" asp-for="ProfilePicture">
+            </div>
+
+            <div class="file">
+                <label class="inputName">Hoja de vida</label>
+                <input class="form-control" type="file" asp-for="Cv">
+            </div>
+        </div>
+
+        <button class="btn btn-success w-100 mt-5">Actualizar Empleado</button>
+    </form>
+</div>
