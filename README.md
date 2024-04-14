@@ -9,7 +9,7 @@
 
 ###
 
-- Ir a la carpeta raíz del proyecto ./Empleo
+- Ir a la carpeta raíz del proyecto ./Riwi-FiltroASP.NET
 
 - Abrir la terminal e iniciar el proyecto
 
